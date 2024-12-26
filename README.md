@@ -2,4 +2,7 @@
 
 ## the code build with Javascript 
 * rest of questions was written as comment 
-[Live-URL-Javascript]=https://alaasa3di.github.io/Javascript-basic/
+## to live URL click here [Javascript][1].
+
+
+[1]: https://alaasa3di.github.io/Javascript-basic/
